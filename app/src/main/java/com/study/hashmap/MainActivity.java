@@ -9,9 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
-import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
     private Map<String, String> fruits;
